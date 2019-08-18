@@ -1,0 +1,2 @@
+# hello-cmake
+CMake tutorial
